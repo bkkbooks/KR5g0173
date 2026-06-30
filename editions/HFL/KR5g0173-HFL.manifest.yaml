@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0173/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0173/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清洞真智慧觀身大戒文
+  date: '2015-08-29 02:59:32.793102'
+  source:
+    repository: kanripo
+    path: KR5g0173
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0173_000-HFL.yaml, hash: 'sha256:f7e47fbcc42ee83ea3143787f6f62a15554469d6bcbb187bf5dc9ac711fdb1bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0173_000-HFL.markers.yaml, hash: 'sha256:bc9ab24088f61c921e7e97d3a7a71f6a8b817f045c619b99e67ef46182e8f4aa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0173_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 4110
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:122028ca8d3ba6931521029c513b2ffcb1e5fc281512fe3570b27c745a9a47ba
